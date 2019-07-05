@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1562365560703,
+  "timestamp": 1562366292466,
   "index": "/PWATodo/index.html",
   "assetGroups": [
     {
@@ -56,7 +56,7 @@
     "/PWATodo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/PWATodo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/PWATodo/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWATodo/index.html": "31b3230661594839d7daae61b3bbb63662bf7dbe",
+    "/PWATodo/index.html": "1e283fd4c53e3a3db251e421b1a36a1a3694590e",
     "/PWATodo/main-es2015.f8247efa9b1a0bdb06e3.js": "86e5955d8352bb608142e8e62946e16a32bc491e",
     "/PWATodo/main-es5.8293d7589c1a18e6ed77.js": "678ad656b0d92d4d5925c92e728906c7edf3fc06",
     "/PWATodo/polyfills-es2015.551225243b1eb435bb30.js": "fa3294dc18f74d99ffb7812c33dbbdb3daf098ca",
